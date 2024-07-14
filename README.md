@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+I'm new to Git so this is just me learning for the moment. Be gentle with me. 😎
+<br>
+
+- 🌱 I’m currently learning Git, GitHub, Python3 and other interesting things life has to offer!
+- 🤔 I’m looking for help with everything or anything :)
+<br>
+
+More to be added later...
+
+
+
+
 <!--
 **EvenAngelsNeed/EvenAngelsNeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
